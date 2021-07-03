@@ -1,3 +1,3 @@
 <?php
- echo "sample.php"
+ echo "finale test.php"
 ?>
