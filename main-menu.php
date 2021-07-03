@@ -71,6 +71,7 @@
                             <li><a href="animal-husbandary.php">Animal Husbandary</a></li>
                            
                         </ul>
+
                     </li>
                      <li class="dropdown">
                         <a href="teaching-staff.php" class="dropdown-toggle">Faculty <b class="caret"></b></a>
@@ -78,11 +79,11 @@
                             <li class="dropdown">
                                 <!-- <a href="teaching-staff.php">Teaching Staff</a> -->
                                 <ul class="dropdown-menu dropdown-submenu">
-                                    <li><a href="teaching-staff.php?dep=crmng">Crop management</a></li>
-                                    <li><a href="teaching-staff.php?dep=crimp">Crop improvement</a></li>
-                                    <li><a href="teaching-staff.php?dep=crpr">Crop protection</a></li>
-                                    <li><a href="teaching-staff.php?dep=hort">Horticulture</a></li>
-                                    <li><a href="teaching-staff.php?dep=ss">Social Sciences</a></li>
+                                    <li><a href="teaching-staff.php?dep=crmng"> Crop management1</a></li>
+                                    <li><a href="teaching-staff.php?dep=crimp"> Crop improvement</a></li>
+                                    <li><a href="teaching-staff.php?dep=crpr"> Crop protection</a></li>
+                                    <li><a href="teaching-staff.php?dep=hort"> Horticulture</a></li>
+                                    <li><a href="teaching-staff.php?dep=ss"> Social Sciences</a></li>
                                 </ul>
 
                             </li>
