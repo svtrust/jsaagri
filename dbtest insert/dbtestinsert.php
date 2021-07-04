@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "jsadbuser";
-$password = "j7DjxOFVkn@S";
+$password = "jsa123$";
 $dbname = "myDB";
 
 // Create connection
