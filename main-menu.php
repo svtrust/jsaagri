@@ -52,7 +52,7 @@
                             <li><a href="admission-procedure.php">Admission Procedure</a></li>
                             <li><a href="fee-structure.php">Fee Structure</a></li>
                             <!-- <li><a href="online-payment.php">Online Payment</a></li> -->
-                            <li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfVNwzO_Mz8uvT0_qP3M_l9WrXR8yWdmU88VqQCfGKJYOMaug/viewform">Admission Enquiry Form</a></li>
+                            <li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeZxcJeVBJrzsBiwXSC3POLhWl46Zx3gotAEiTtkEriulH8tA/viewform">Admission Enquiry Form</a></li>
                             <li><a target="_blank" href="images/application-2021.pdf">Download Application Form</a></li>
                            
                         </ul>
