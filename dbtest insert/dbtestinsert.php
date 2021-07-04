@@ -1,5 +1,5 @@
 <?php
-$servername = "localhost";
+$servername = "jsaagri.in";
 $username = "jsadbuser";
 $password = "*kgPw==9a~EN";
 $dbname = "myDB";
