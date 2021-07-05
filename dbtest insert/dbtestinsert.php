@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "dbusername";
-$password = "*kgPw==9a~EN";
+$password = "GxPjjwUxxev-";
 $dbname = "jsacollege";
 
 // Create connection
