@@ -1,6 +1,6 @@
 <?php
 $servername = "localhost";
-$username = "jsadbuser";
+$username = "dbusername";
 $password = "*kgPw==9a~EN";
 $dbname = "jsacollege";
 
@@ -11,7 +11,7 @@ if ($conn->connect_error) {
   die("Connection failed: " . $conn->connect_error);
 }
 
-$sql = "INSERT INTO `test` (`id`, `name`) VALUES (NULL, 'sadfas');";
+$sql = "INSERT INTO `test` (`id`, `name`) VALUES (NULL, 'asdasd');";
 
 if ($conn->query($sql) === TRUE) {
   echo "New record created successfully";
