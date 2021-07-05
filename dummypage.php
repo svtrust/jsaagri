@@ -1,5 +1,5 @@
 <?php
-include("allfooter.php");
+include("../mainheader.php");
 ?>
 
   <!-- about -->
@@ -9,5 +9,5 @@ include("allfooter.php");
   <!-- / about -->
 
 <?php
-include("mainfooter.php");
+include("../mainfooter.php");
 ?>
