@@ -436,7 +436,7 @@
                             <div class="col-md-6 timeline-details">
                                 <p>
                                 "ADMISSION IS GOING ON FOR B. Sc. (Hons.) AGRICULTURE".<br />
-                                <a target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLSfVNwzO_Mz8uvT0_qP3M_l9WrXR8yWdmU88VqQCfGKJYOMaug/viewform">Click Here...</a>
+                                <a target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLSeZxcJeVBJrzsBiwXSC3POLhWl46Zx3gotAEiTtkEriulH8tA/viewform">Click Here...</a>
                                 </p>
                             </div><!-- / timeline-details -->
                         </div><!-- / row -->
