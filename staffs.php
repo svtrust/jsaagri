@@ -10,7 +10,7 @@ var staffs = [
          "dptm":"crmng"
         },
         {
-         "name":"S.Pazhanisamy M.Sc.(Ag)",
+         "name":"Mr.S.Pazhanisamy M.Sc.(Ag)",
          "position":"Assistant Professor",
          "dep":"Agronomy",
          "photo":"Pazhanisamy.png",
