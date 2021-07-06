@@ -11,6 +11,11 @@ class Database
 	public $pass = "GxPjjwUxxev-";
 	public $dbname ="jsacollege";
 
+	public $servername = "localhost";
+	public $username = "dbusername";
+	public $password = "GxPjjwUxxev-";
+	public $dbname = "jsacollege";
+
 	public $db;
 	
 	function __construct(argument)

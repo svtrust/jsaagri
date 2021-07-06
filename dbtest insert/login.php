@@ -14,7 +14,7 @@ $result = $conn->query($sql);
 
 print_r($result);
 
-// exit(0);
+/*// exit(0);
 
  if ($result -> fetch_array()) {
 	if(!session_id())
@@ -30,7 +30,7 @@ print_r($result);
  else
  {
  	echo "Please provide proper login details";
- }
+ }*/
 
  echo "end";
 
