@@ -13,7 +13,7 @@ $result = $conn->query($sql);
 
 print_r($result);
 
-exit(0);
+// exit(0);
 
  if ($result -> fetch_array()) {
  	$_SESSION['staffadmin'] = $uname;
@@ -22,5 +22,7 @@ exit(0);
  {
  	echo "Please provide proper login details";
  }
+
+ echo "end";
 
 ?>
