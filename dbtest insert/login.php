@@ -11,6 +11,16 @@ $sql="select * from ".$usertable." where name = '".$uname."' and password = '".$
 
 $result = $conn->query($sql);
 
- 
+print_r($result);
+
+exit(0);
+
+ if ($result -> fetch_array()) {
+ 	$_SESSION['staffadmin'] = $uname;
+ }
+ else
+ {
+ 	echo "Please provide proper login details";
+ }
 
 ?>
