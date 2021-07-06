@@ -21,12 +21,12 @@
 
 			?>
 			<div>
-				<form>
+				<form action="login.php" method="post">
 					<label>
-						User name<input type="text" name="" class="uname" id="uname">
+						User name<input type="text" name="uname" class="uname" id="uname">
 					</label>
 					<label>
-						User pass<input type="text" name="" class="upass" id="upass">
+						User pass<input type="text" name="upass" class="upass" id="upass">
 					</label>
 					<label>
 						<button id="admin_login_btn">Login</button>
