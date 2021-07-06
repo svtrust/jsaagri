@@ -12,9 +12,13 @@ $sql="select * from ".$usertable." where name = '".$uname."' and password = '".$
 
 $result = $conn->query($sql);
 
-while ($row = $result->fetch_assoc()) {
+$row = $result->fetch_assoc();
+
+print_r($row);
+
+/*while ($row = $result->fetch_assoc()) {
             print_r($row);
-     }
+     }*/
 
 /*// exit(0);
 
