@@ -17,7 +17,14 @@ print_r($result);
 // exit(0);
 
  if ($result -> fetch_array()) {
-	session_start();
+	if(!session_id())
+		{
+		session_start();
+		}
+	else{
+		session_destroy();
+		session_start();
+	}
  	$_SESSION['staffadmin'] = $uname;
  }
  else
