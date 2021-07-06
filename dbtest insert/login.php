@@ -9,10 +9,9 @@ $upass = $_POST['upass'];
 
 $sql="select * from ".$usertable." where name = '".$uname."' and password = '".$upass."'";
 
-$result = mysql_query($sql);
+$result = $conn->query($sql);
 
- if (mysql_fetch_row($result)) {
- 	// code...
+ if ($result -> fetch_array()) {
  	$_SESSION['staffadmin'] = $uname;
  }
  else
