@@ -169,10 +169,7 @@
                         <a href="#" data-toggle="dropdown" class="dropdown-toggle">Alumini </a>
                        
                     </li> -->
-                     <li><a href="contact-us.php">Contact US</a></li>
-                       
-                       
-                    
+                     <li><a href="contact-us.php">Contact US</a></li> 
                     
                 </ul>
             </div>
