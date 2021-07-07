@@ -73,22 +73,39 @@
                         </ul>
 
                     </li>
-                    <li>
-                        <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Right-aligned menu
-                        </button>
-                        <div class="dropdown-menu dropdown-menu-right">
-                            <button class="dropdown-item" type="button">Action</button>
-                            <button class="dropdown-item" type="button">Another action</button>
-                            <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Right-aligned menu
-                        </button>
-                        <div class="dropdown-menu dropdown-menu-right">
-                            <button class="dropdown-item" type="button">Action</button>
-                            <button class="dropdown-item" type="button">Another action</button>
-                            <button class="dropdown-item" type="button">Something else here</button>
-                        </div>
-                        </div>
+                     <li class="dropdown">
+                        <a href="teaching-staff.php" class="dropdown-toggle">Faculty <b class="caret"></b></a>
+                         <ul class="dropdown-menu">
+                            <li class="dropdown">
+                                <!-- <a href="teaching-staff.php">Teaching Staff</a> -->
+                                <ul class="dropdown-menu dropdown-submenu">
+                                    <li><a href="teaching-staff.php?dep=crmng"> Crop management</a></li>
+                                    <li><a href="teaching-staff.php?dep=crimp"> Crop improvement</a></li>
+                                    <li><a href="teaching-staff.php?dep=crpr"> Crop protection</a></li>
+                                    <li><a href="teaching-staff.php?dep=hort"> Horticulture</a></li>
+                                    <li><a href="teaching-staff.php?dep=ss"> Social Sciences</a></li>
+                                </ul>
+
+                            </li>
+                           <!--  <li><a href="non-teaching-staff.php">Non Teaching Staff</a></li> -->
+                            
+                        </ul>
+                        <a href="teaching-staff.php" class="dropdown-toggle">Faculty <b class="caret"></b></a>
+                         <ul class="dropdown-menu">
+                            <li class="dropdown">
+                                <!-- <a href="teaching-staff.php">Teaching Staff</a> -->
+                                <ul class="dropdown-menu dropdown-submenu">
+                                    <li><a href="teaching-staff.php?dep=crmng"> Crop management</a></li>
+                                    <li><a href="teaching-staff.php?dep=crimp"> Crop improvement</a></li>
+                                    <li><a href="teaching-staff.php?dep=crpr"> Crop protection</a></li>
+                                    <li><a href="teaching-staff.php?dep=hort"> Horticulture</a></li>
+                                    <li><a href="teaching-staff.php?dep=ss"> Social Sciences</a></li>
+                                </ul>
+
+                            </li>
+                           <!--  <li><a href="non-teaching-staff.php">Non Teaching Staff</a></li> -->
+                            
+                        </ul>
                     </li>
                      <li class="dropdown">
                         <a href="teaching-staff.php" class="dropdown-toggle">Faculty <b class="caret"></b></a>
