@@ -73,25 +73,25 @@
                         </ul>
 
                     </li>
+                     <li class="parent"><a href="#">Faculties</a>
+                        <ul class="child">
+                            <li class="parent"><a href="#">Teaching staff<span class="expand">»</span></a>
+                                <ul class="dropdown-menu dropdown-submenu child">
+                                                        <li><a href="teaching-staff.php?dep=crmng"> Crop management</a></li>
+                                                        <li><a href="teaching-staff.php?dep=crimp"> Crop improvement</a></li>
+                                                        <li><a href="teaching-staff.php?dep=crpr"> Crop protection</a></li>
+                                                        <li><a href="teaching-staff.php?dep=hort"> Horticulture</a></li>
+                                                        <li><a href="teaching-staff.php?dep=ss"> Social Sciences</a></li>
+                                                    </ul>
 
-<li class="parent"><a href="#">Faculties</a>
-    <ul class="child">
-        <li class="parent"><a href="#">Teaching staff<span class="expand">»</span></a>
-            <ul class="child">
-            <li><a href="#">Car</a></li>
-            <li><a href="#">Bike Race</a></li>
-            <li><a href="#">Fishing</a></li>
-            </ul>
-        </li>
-        <li class="parent"><a href="#">Non Teaching staff<span class="expand">»</span></a>
-            <ul class="child">
-            <li><a href="#">Car</a></li>
-            <li><a href="#">Bike Race</a></li>
-            <li><a href="#">Fishing</a></li>
-            </ul>
-        </li>
-    </ul>
-</li>
+                            </li>
+                            <li class="parent"><a href="#">Non Teaching staff<span class="expand">»</span></a>
+                                <ul class="child">
+                                
+                                </ul>
+                            </li>
+                        </ul>
+                        </li>
                     <li class="dropdown">
                         <a href="Student_Welfare.php" data-toggle="dropdown" class="dropdown-toggle">Student Welfare <b class="caret"></b></a>
                         <ul class="dropdown-menu">
@@ -178,20 +178,16 @@
             </div>
        
     </nav>
-
 <style>
-.parent {display: block;position: relative;float: left;line-height: 30px;}
-.parent a{margin: 10px;text-decoration: none;}
-.parent:hover > ul {display:block;position:absolute;}
-.child {display: none;}
-.child li {line-height: 30px;width:100%;}
-ul{list-style: none;margin: 0;padding: 0px; min-width:10em;}
-ul ul ul{left: 100%;top: 0;margin-left:1px;}
-.expand{font-size:12px;float:right;margin-right:5px;}
+    .parent {display: block;position: relative;float: left;line-height: 30px;}
+    .parent a{text-decoration: none;}
+    .parent:hover > ul {display:block;position:absolute;}
+    .child {display: none;}
+    .child li {line-height: 30px;width:100%;}
+    ul{list-style: none;margin: 0;padding: 0px; min-width:10em;}
+    ul ul ul{left: 100%;top: 0;}
+    .expand{font-size:12px;float:right;}
 </style>
-
-
-
     <script>
 $(document).ready(function(){
     $(".dropdown, .btn-group").hover(function(){
