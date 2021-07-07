@@ -73,6 +73,16 @@
                         </ul>
 
                     </li>
+                    <li>
+                        <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Right-aligned menu
+                        </button>
+                        <div class="dropdown-menu dropdown-menu-right">
+                            <button class="dropdown-item" type="button">Action</button>
+                            <button class="dropdown-item" type="button">Another action</button>
+                            <button class="dropdown-item" type="button">Something else here</button>
+                        </div>
+                    </li>
                      <li class="dropdown">
                         <a href="teaching-staff.php" class="dropdown-toggle">Faculty <b class="caret"></b></a>
                          <ul class="dropdown-menu">
