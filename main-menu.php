@@ -73,24 +73,24 @@
                         </ul>
 
                     </li>
-                     <li class="dropdown parent">
-                        <a href="teaching-staff.php" class="dropdown-toggle">Faculty <b class="caret"></b></a>
-                         <ul class="dropdown-menu childs">
-                            <li class="dropdown parent">
-                                <a href="teaching-staff.php">Teaching Staff</a>
-                                <ul class="dropdown-menu dropdown-submenu child">
-                                    <li><a href="teaching-staff.php?dep=crmng"> Crop management</a></li>
-                                    <li><a href="teaching-staff.php?dep=crimp"> Crop improvement</a></li>
-                                    <li><a href="teaching-staff.php?dep=crpr"> Crop protection</a></li>
-                                    <li><a href="teaching-staff.php?dep=hort"> Horticulture</a></li>
-                                    <li><a href="teaching-staff.php?dep=ss"> Social Sciences</a></li>
-                                </ul>
-
-                            </li>
-                           <!--  <li><a href="non-teaching-staff.php">Non Teaching Staff</a></li> -->
-                            
-                        </ul>
-                    </li>
+<li class="parent"><a href="#">Popular Toys</a>
+<ul class="child">
+<li class="parent"><a href="#">Teaching staff<span class="expand">»</span></a>
+<ul class="child">
+<li><a href="#">Car</a></li>
+<li><a href="#">Bike Race</a></li>
+<li><a href="#">Fishing</a></li>
+</ul>
+</li>
+<li class="parent"><a href="#">Teaching staff<span class="expand">»</span></a>
+<ul class="child">
+<li><a href="#">Car</a></li>
+<li><a href="#">Bike Race</a></li>
+<li><a href="#">Fishing</a></li>
+</ul>
+</li>
+</ul>
+</li>
                     <li class="dropdown">
                         <a href="Student_Welfare.php" data-toggle="dropdown" class="dropdown-toggle">Student Welfare <b class="caret"></b></a>
                         <ul class="dropdown-menu">
