@@ -73,23 +73,24 @@
                         </ul>
 
                     </li>
-<li class="parent"><a href="#">Popular Toys</a>
-<ul class="child">
-<li class="parent"><a href="#">Teaching staff<span class="expand">»</span></a>
-<ul class="child">
-<li><a href="#">Car</a></li>
-<li><a href="#">Bike Race</a></li>
-<li><a href="#">Fishing</a></li>
-</ul>
-</li>
-<li class="parent"><a href="#">Teaching staff<span class="expand">»</span></a>
-<ul class="child">
-<li><a href="#">Car</a></li>
-<li><a href="#">Bike Race</a></li>
-<li><a href="#">Fishing</a></li>
-</ul>
-</li>
-</ul>
+
+<li class="parent"><a href="#">Faculties</a>
+    <ul class="child">
+        <li class="parent"><a href="#">Teaching staff<span class="expand">»</span></a>
+            <ul class="child">
+            <li><a href="#">Car</a></li>
+            <li><a href="#">Bike Race</a></li>
+            <li><a href="#">Fishing</a></li>
+            </ul>
+        </li>
+        <li class="parent"><a href="#">Non Teaching staff<span class="expand">»</span></a>
+            <ul class="child">
+            <li><a href="#">Car</a></li>
+            <li><a href="#">Bike Race</a></li>
+            <li><a href="#">Fishing</a></li>
+            </ul>
+        </li>
+    </ul>
 </li>
                     <li class="dropdown">
                         <a href="Student_Welfare.php" data-toggle="dropdown" class="dropdown-toggle">Student Welfare <b class="caret"></b></a>
@@ -178,7 +179,7 @@
        
     </nav>
 
-    <style>
+<style>
 .parent {display: block;position: relative;float: left;line-height: 30px;}
 .parent a{margin: 10px;text-decoration: none;}
 .parent:hover > ul {display:block;position:absolute;}
@@ -188,6 +189,7 @@ ul{list-style: none;margin: 0;padding: 0px; min-width:10em;}
 ul ul ul{left: 100%;top: 0;margin-left:1px;}
 .expand{font-size:12px;float:right;margin-right:5px;}
 </style>
+
 
 
     <script>
