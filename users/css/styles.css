@@ -5349,7 +5349,7 @@ input[type=button].btn-block {
 {
   display: none;
 }
-.dropdown-menu .dropdown a:hover > .dropdown-submenu
+.dropdown-menu a:hover > .dropdown-submenu
 {
   display: block
 }

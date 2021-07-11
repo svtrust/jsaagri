@@ -1,0 +1,40 @@
+* {
+    font-size: 30px;
+    margin:0;
+    padding:4;
+
+}
+
+#end {
+    text-align: left;
+    align-content: center;
+}
+
+.clname {
+    width: 100px;
+    max-width: 100px;
+}
+
+img {
+    max-width: inherit;
+    width: inherit;
+}
+ page {
+  size: 4in;
+ }
+@media print {
+
+    .hidden-print,
+    .hidden-print * {
+        display: none !important;
+    }
+ page {
+  margin-left:0; 
+  margin-right: 0;
+   
+  }    
+    
+   th, td {
+  padding: 1px;
+  }
+}
