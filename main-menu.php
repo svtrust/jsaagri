@@ -77,7 +77,10 @@
                         <a href="teaching-staff.php" class="dropdown-toggle">Faculty <b class="caret"></b></a>
                          <ul class="dropdown-menu">
                             <li class="dropdown">
-                                <a href="teaching-staff.php">Teaching Staff</a>
+                                <a href="teaching-staff.php" class="menuitem">Teaching Staff</a>
+                                <ul class="menulist">
+                                    <li><a href="">aa</a></li>
+                                </ul>
                                 <!-- <ul class="dropdown-submenu">
                                     <li class="dropdown"><a href="teaching-staff.php?dep=crmng"> Crop management</a></li>
                                     <li class="dropdown"><a href="teaching-staff.php?dep=crimp"> Crop improvement</a></li>
