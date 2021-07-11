@@ -78,13 +78,13 @@
                          <ul class="dropdown-menu">
                             <li class="dropdown">
                                 <a href="teaching-staff.php">Teaching Staff</a>
-                                <ul class="dropdown-submenu">
+                                <!-- <ul class="dropdown-submenu">
                                     <li class="dropdown"><a href="teaching-staff.php?dep=crmng"> Crop management</a></li>
                                     <li class="dropdown"><a href="teaching-staff.php?dep=crimp"> Crop improvement</a></li>
                                     <li class="dropdown"><a href="teaching-staff.php?dep=crpr"> Crop protection</a></li>
                                     <li class="dropdown"><a href="teaching-staff.php?dep=hort"> Horticulture</a></li>
                                     <li class="dropdown"><a href="teaching-staff.php?dep=ss"> Social Sciences</a></li>
-                                </ul>
+                                </ul> -->
 
                             </li>
                            <!--  <li><a href="non-teaching-staff.php">Non Teaching Staff</a></li> -->
